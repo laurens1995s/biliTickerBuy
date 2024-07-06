@@ -61,10 +61,10 @@ Running on local URL:  http://127.0.0.1:xxx
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/mikumifa">
-                    <img src="https://avatars.githubusercontent.com/u/99951454?v=4" width="100;" alt="mikumifa"/>
+                <a href="https://github.com/laurens1995s">
+                    <img src="https://avatars.githubusercontent.com/u/88361046?v=4" width="100;" alt="laurens1995s"/>
                     <br />
-                    <sub><b>mikumifa</b></sub>
+                    <sub><b>laurens_zero</b></sub>
                 </a>
             </td>
             <td align="center">
